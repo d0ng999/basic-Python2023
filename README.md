@@ -199,3 +199,26 @@ print(type(val)) # <class 'int'>
 2. 깃헙 
     - 코드블럭작성
         - 사용 방법은 ```..```으로 사용 가능
+
+
+## 3일차
+1. 파이썬 기본
+    - 흐름제어
+        - if
+            - if, elif, else 문
+        - for
+            - for 변수 in 리스트
+            - if문이랑 같이
+            - 구구단 연습 (7줄)
+            - range 문 연습 range(초기값, 끝 값, 증감)
+            - continue & break
+        - while
+            - while 조건문 + if문
+            - 나무찍기 연습
+    - 구구단 프로그램
+    - 함수
+        - def 함수명 (파라미터): -> 함수 정의
+        - 변수 = 함수식
+        - return 변수
+        - 복잡한 계산기 만들기
+        - lambda함수라는게 있다
