@@ -235,4 +235,6 @@ print(type(val)) # <class 'int'>
         - class 클래스 명:
         - 속성변수 = 값
         - +함수
+        - __init__, __str__ 자주 사용함.
     - 패키지
+        - 모듈, import, from, as
