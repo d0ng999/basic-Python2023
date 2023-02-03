@@ -3,7 +3,11 @@ import os
 
 # __클래스 변수를 고정시켜서 외부에서는 변수를 바꿀 수 없게 만들어주는 함수
 class Car:
-    __number = '54라 9538'
+    def __init__(self, number) -> None:
+        self.__number = '54라 9538'
+        self.__number = number
+        print('__init__')
+        
 
     def get_number(self):
         return self.__number
