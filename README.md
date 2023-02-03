@@ -243,6 +243,13 @@ print(type(val)) # <class 'int'>
 ## 5일차
 1. 파이썬 기본
     - 패키지 
+        - random, urllib - request(s), math 등등...을 불러왔다아
     - 입출력
+        - 파일입출력 open('파일명', 'w, r, a')
+        - open, close 필수
+        - 파일 읽기, 쓰기, 첨부하기(w, r, a)
+        - csv파일 - encoding = 'utf-8'
     - 예외처리
-    - 객체지향
+        - try: 문에 예외가 발생할 가능성이 있는 함수 넣기
+        - except:
+        - finally:
