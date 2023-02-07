@@ -18,20 +18,4 @@
 # else:
 #     print('땡')
 
-# 배열 - X보다 작은 수 & 최소, 최대
-
-arr = list(map(int, input().split()))
-count = 0
-for i in arr:
-    if count == 0:
-        
-        for i in arr:
-            count += 1
-        
-            if i == max(arr):
-                print(max(arr))
-                print(count)
-
-    else:
-        print('땡')
 
