@@ -140,6 +140,8 @@
     - 리스트 연산 추가
     - 라이브러리 사용법
         - folium (지도 라이브러리)
+ ![실행화면](https://raw.githubusercontent.com/d0ng999/studyPython2023/main/images/jupyter_folium.png)
+ 실행화면
 
 ## 8일차 
 1. 파이썬 응용
