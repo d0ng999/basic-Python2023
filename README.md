@@ -139,14 +139,14 @@
         - 노트북 생성 : 파일메뉴 > 새파일
     - 리스트 연산 추가
     - 라이브러리 사용법
-        - folium (지도 라이브러리)
+        
+
+## 8일차 
+1. 파이썬 응용
+    - 라이브러리 사용법       
+    - folium (지도 라이브러리)
         (https://github.com/d0ng999/studyPython2023/blob/main/Day08/code45_web_crawling_tutorial.ipynb)
  ![실행화면](https://raw.githubusercontent.com/d0ng999/studyPython2023/main/images/jupyter_folium.png)
  실행화면
 
-## 8일차 
-1. 파이썬 응용
-    - 라이브러리 사용법
-    - 자료구조       
-    - 윈폼 개발(GUI)
     - 응용 학습
