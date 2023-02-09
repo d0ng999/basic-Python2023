@@ -146,7 +146,19 @@
     - 라이브러리 사용법       
     - folium (지도 라이브러리)
         (https://github.com/d0ng999/studyPython2023/blob/main/Day08/code45_web_crawling_tutorial.ipynb)
+        - 기상청 오늘의 날씨 크롤링
+        - 데이터 포털 OpenAPI 크롤링
+        - BeautifulSoup 크롤링
  ![실행화면](https://raw.githubusercontent.com/d0ng999/studyPython2023/main/images/jupyter_folium.png)
  실행화면
 
-    - 응용 학습
+Folium OpenAPI 연동화면
+
+# 9일차
+1. 파이썬 응용
+    - GUI 개발 
+        - Tkinter 소개
+        - PyQt 설치 및 사용법
+(https://www.flaticon.com/)
+(https://wikidocs.net/) (PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램)
+(https://wikibook.co.kr/)
