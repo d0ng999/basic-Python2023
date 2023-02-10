@@ -154,11 +154,21 @@
 
 Folium OpenAPI 연동화면
 
-# 9일차
+## 9일차
 1. 파이썬 응용
     - GUI 개발 
         - Tkinter 소개
         - PyQt 설치 및 사용법
+        - PyQt 기본 사용법
+        - 위젯
 (https://www.flaticon.com/)
 (https://wikidocs.net/) (PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램)
 (https://wikibook.co.kr/)
+        
+
+## 10일차
+1. 파이썬 응용
+    - GUI 개발
+        - PyQt 위젯 계속
+    - class 내에 함수 중에서 변수를 self.없이 쓰면 이 변수는 속해있는 함수 내에서만 실행된다.
+    - 하지만 self.를 쓰게 되면 class내의 변수가 되어서 class내에 변수를 언제든지 쓸 수 있다.
