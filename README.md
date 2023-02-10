@@ -170,5 +170,10 @@ Folium OpenAPI 연동화면
 1. 파이썬 응용
     - GUI 개발
         - PyQt 위젯 계속
+        - PyQt 다이얼로그
     - class 내에 함수 중에서 변수를 self.없이 쓰면 이 변수는 속해있는 함수 내에서만 실행된다.
     - 하지만 self.를 쓰게 되면 class내의 변수가 되어서 class내에 변수를 언제든지 쓸 수 있다.
+
+![실행화면](https://raw.githubusercontent.com/d0ng999/studyPython2023/main/images/dialog.png)
+
+PyQt 실행화면
